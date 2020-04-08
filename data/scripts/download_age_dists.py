@@ -267,10 +267,10 @@ country_codes = {
 agency   = "UNSD"
 database = "DF_UNDATA_WPP"
 dataset  = "SP_POP_TOTL"
-sexes    = "_T"
-t_beg    = "1970-01-01"
-t_end    = "1970-01-02"
-kind     = "B"
+sexes    = "_T"           ## Both sexes
+t_beg    = "1970-01-01"   ## Historical Age data for 1970
+t_end    = "1970-12-31"
+kind     = "M"            ## Median variant
 
 # ------------------------------------------------------------------------
 # Functions
