@@ -268,9 +268,9 @@ agency   = "UNSD"
 database = "DF_UNDATA_WPP"
 dataset  = "SP_POP_TOTL"
 sexes    = "_T"
-t_beg    = "2020-01-01"
-t_end    = "2020-01-02"
-kind     = "M"
+t_beg    = "1970-01-01"
+t_end    = "1970-01-02"
+kind     = "B"
 
 # ------------------------------------------------------------------------
 # Functions
