@@ -114,7 +114,7 @@ country_codes = {
   "124" : "Canada",
   "304" : "Greenland",
   "666" : "Saint Pierre and Miquelon",
-  "840" : "United States of America",
+  "840" : "United States of America 1970",
   "156" : "China",
   "158" : "Taiwan Province of China",
   "344" : "China, Hong Kong Special Administrative Region",
